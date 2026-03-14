@@ -54,5 +54,5 @@ body{
 }
 
 .card:hover .precio{
-    color: Red;
+    color: orange;
 }
